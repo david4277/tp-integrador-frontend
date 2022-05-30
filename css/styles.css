@@ -1,0 +1,31 @@
+header{
+    z-index: 1;
+}
+
+.logotipo{
+    height: 70px;
+}
+
+.bg-gris{
+    background-color: #353a40;
+}
+
+.banner{
+    background-image: url('../img/ba1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card-img-top{
+    height: 300px;
+}
+
+.img-fluid{
+    height: 100%;
+}
+
+.bg-footer{
+    background-color: #1e4c66;
+}
